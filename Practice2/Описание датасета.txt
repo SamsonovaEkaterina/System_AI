@@ -1,0 +1,29 @@
+Тематика: Статистика киберпреступлений
+Состоит из 25 различных показателей и 40 000 записей
+
+Показатели:
+Timestamp - Временная метка
+Source IP Address - IP-адрес источника
+Destination IP Address - IP-адрес назначения
+Source Port - Порт источника
+Destination Port - Порт назначения
+Protocol - Протокол
+Packet Length - Длина пакета
+Packet Type - Тип пакета
+Traffic Type - Тип трафика
+Payload Data - Данные полезной нагрузки
+Malware Indicators - Индикаторы вредоносных программ
+Anomaly Scores - Оценки аномалий
+Alerts/Warnings - Оповещения/предупреждения
+Attack Type - Тип атаки
+Attack Signature - Сигнатура атаки
+Action Taken - Предпринятое действие
+Severity Level - Уровень серьезности
+User Information - Информация о пользователе
+Device Information - Информация об устройстве
+Network Segment - Сетевой сегмент
+Geo-location Data - Данные о географическом местоположении
+Proxy Information - Информация о прокси- сервере
+Firewall Logs - Логи брандмауэра
+IDS/IPS Alerts - Оповещения от инструментов безопасности IDS/IPS о потенциальных угрозах или инцидентах в сети
+Log Source - Источник журнала оповещений
